@@ -1,5 +1,5 @@
 # Moonshot
- An iOS containing information about Apollo space program including missions and astronauts.
+ An iOS app containing information about the Apollo space program including missions and astronauts.
 
 # Installation
  1. Open up Xcode
